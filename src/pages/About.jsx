@@ -203,37 +203,37 @@ const About = () => {
 
           <li className="clients-item ws-2">
             <a href="#">
-              <img src="../../public/images/ZIBRISH LOGO.PNG" alt="client logo" />
+              <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754656088/ZIBRISH_LOGO_qk65gc.png" alt="client logo" />
             </a>
           </li>
 
           <li className="clients-item">
             <a href="#">
-              <img src="../../public/images/LONG-D LOGO.png"></img>
+              <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655566/LONG-D_LOGO_lbb7xj.png"></img>
             </a>
           </li>
 
           <li className="clients-item pt-2">
             <a href="#">
-              <img src="../../public/images/curigen.png"></img>
+              <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754656136/curigen_kzy3vu.png"></img>
             </a>
           </li>
 
           <li className="clients-item  pt-5">
             <a href="#">
-              <img src="../../public/images/Merena Logo.png"></img>
+              <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655566/Merena_Logo_cxq9sy.png"></img>
             </a>
           </li>
 
           <li className="clients-item">
             <a href="#">
-              <img src="../../public/images/Logo Png.png "></img>
+              <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655564/Logo_Png_pvayqt.png"></img>
             </a>
           </li>
 
           <li className="clients-item">
             <a href="#">
-              <img src="/images/logo-6-color.png" alt="client logo" />
+              <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655564/logo-3-color_fshanp.png" alt="client logo" />
             </a>
           </li>
 
