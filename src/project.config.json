@@ -1,0 +1,150 @@
+{
+  "project": {
+    "title": "Parth Gothadiya"
+  },
+  "sidebar": {
+    "name": "Parth Gothadiya",
+    "designation": "Video Editor",
+    "email": "parthgothadiya@gmail.com",
+    "phone": "+91 9227057172",
+    "dob": "07-07-2003",
+    "location": "Surat, Gujart, India ",
+    "socialMedia": [
+      {
+        "label": "Instagram",
+        "icon": "logo-instagram",
+        "link": "/"
+      },
+      {
+        "label": "Youtube",
+        "icon": "logo-youtube",
+        "link": "https://www.youtube.com/@MindfulFacts2580/videos"
+      },
+      {
+        "label": "Facebook",
+        "icon": "logo-facebook",
+        "link": "/"
+      },
+      {
+        "label": "Telegream",
+        "icon": "logo-github",
+        "link": "/"
+      },
+      {
+        "label": "Whatapp",
+        "icon": "logo-whatsapp",
+        "link": " https://wa.me/qr/N3OVFM2ULD7TC1 "
+      },
+      
+      {
+        "label": "Telegream",
+        "icon": "paper-plane",
+        "link": "https://t.me/+X9Hk05CnH4o4MmRl"
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "About",
+        "to": "/"
+      },
+      {
+        "label": "Resume",
+        "to": "/resume"
+      },
+      {
+        "label": "Portfolio",
+        "to": "/portfolio"
+      }, 
+      {
+        "label": "Service",
+        "to": "/service"
+      },
+      {
+        "label": "Contact",
+        "to":"/contact"
+      }
+   
+    ]
+  },
+  "resume": {
+    "timeline":{
+      "Education": [
+        {
+          "institution": "Shree Swaminarayan Gurukul-Chital ",
+          "years": "2016 — 2017  ",
+          "description": "(10th) Secondary School Certificate."
+        },
+       
+        {
+          "institution": "Shree Swaminarayan Gurukul-Chital",
+          "years": "2018 — 2019",
+          "description": "(12th) Higher Secondary Certificate."
+        },
+        {
+          "institution": "kk parekh commerce college",
+          "years": "2019 — 2021",
+          "description": "Bachelor of Commerce."
+        },
+        {
+          "institution": "Creative Multimedia Institute Surat",
+          "years": "2021 — 2022",
+          "description": "Full Stack Developer"
+        }
+      ],
+      "Experience": [
+        {
+          "position": "The Diamond Port - Vesu",
+          "years": "2022 — 2023",
+          "description": "Edited and produced high-quality video content for marketing, social media, and promotional campaigns."
+        },
+        {
+          "position": "Swaminarayan Vadtal Gadi (SVG)",
+          "years": "2023 — 2023",
+          "description": "Integrated animations, transitions, and VFX to enhance video storytelling.Organized and archived footage to streamline project efficiency."
+        },
+        {
+          "position": "Kachchhi Films ",
+          "years": "2023 — 2024",
+          "description": "Created engaging social media clips, YouTube videos, and reels optimized for viral reach.Managed post-production, wedding shooting,workflows, including syncing audio, adding captions, and fine-tuning comedic beats."
+        },
+        {
+          "position": "Digitlaks ",
+          "years": "2025 persent",
+          "description": "Edited medical and pharmacy-themed content, including sketches, educational videos, and promotional materials.Worked closely with writers, doctors, and comedians to create engaging and humorous health-related videos.."
+        }
+      ]
+    },
+    "skills": [
+      {
+        "name": "Adobe After Effect",
+        "percentage": 90
+      },
+      {
+        "name": "Adobe Premiere Pro",
+        "percentage": 75
+      },
+      {
+        "name": "Color Grading Correction",
+        "percentage": 78
+      },
+      {
+        "name": "Audio Editing:",
+        "percentage": 60
+      },
+      {
+        "name": "video Enhancer",
+        "percentage": 88
+      },
+      {
+        "name": "Communication And Collaboration",
+        "percentage": 81
+      },
+      {
+        "name": "Computer Troubleshooting And Technical",
+        "percentage": 90
+      }
+    ]
+  }
+}
