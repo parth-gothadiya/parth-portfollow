@@ -11,18 +11,19 @@ const Portfolio = () => {
     { id: 1, title: "The Long - D", category: "Video Editing",  img:"https://res.cloudinary.com/dg4xzeevq/video/upload/v1745595843/xb1jak4yvcuuh9iwmxzs.mp4"},
 
     { id: 2, title: "Mindful Facts", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745595899/t5nhxlsujopyl95cn4zj.mp4" },
-
+    
     { id: 3, title: "Mindful Facts", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745595895/vkzmddnz0y42asdvtd9e.mp4" },
+    { id: 2, title: "PPMHPL ", category: "Video Editing", img: "https://parthgothadiya.sirv.com/Render%20Comp_2.mp4" },
     { id: 4, title: "PPMHPL", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745596577/003_Dr_Priyanka_cancer_z5wnod.mp4" }, 
     { id: 5, title: "EFX", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745596719/Comp_1_5_2_thm2_prob3_2_bhujoq.mp4" },
     { id: 6, title: "PPMHPL", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745596469/3%E6%9C%8824%E6%97%A5_2_Dr_Janki_Kakadiya_lipid_rul8gt.mp4" },
-    { id: 7, title: "Logo Animation ", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745597296/Final_Render-_rsuapg.mp4" },
     { id: 8, title: "Zibrish Rooftop", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745594702/ip6swfan3k7u2ulnartz.mp4" },
     { id: 9, title: "Harmonify", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745598402/5_6284898796119788538_xopwnd.mp4" },
     { id: 10, title: "The Long-D ", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1748082102/5%E6%9C%889%E6%97%A5_09-05_e24nko.mp4" },
     { id: 11, title: "The Long -D", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1748083898/5%E6%9C%888%E6%97%A5_zibrsh_reel_gailgx.mp4" },
     { id: 12, title: "The Long-D", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1748082177/5%E6%9C%8819%E6%97%A5_cvbyon.mp4" },
-  
+    
+    { id: 7, title: "Logo Animation ", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745597296/Final_Render-_rsuapg.mp4" },
     { id: 13, title: "The Long-D", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081620/12_May_-_PPMHPL_pzy7nv.png" },
     { id: 14, title: "The Long-D", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081713/20_May_-_Digitlaks_fcbo6h.png" },
     { id: 15, title: "The Long-D", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081624/May_17_-_PPMHPL_i3p0ml.png" },
