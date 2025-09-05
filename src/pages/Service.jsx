@@ -17,7 +17,7 @@ const Service = () => {
           <li className="blog-post-item">
             <a href="#">
               <figure className="blog-banner-box">
-                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655567/video_editor_w2wcgu.jpg" alt="Social Media Reels & Shorts" loading="lazy" />
+                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655567/video_editor_w2wcgu.jpg" alt="Social Media Reels & Shorts" loading="eager" />
               </figure>
               <div className="blog-content">
                 <h3 className="h3 blog-item-title">Social Media Reels & Shorts</h3>
@@ -31,7 +31,7 @@ const Service = () => {
           <li className="blog-post-item">
             <a href="#">
               <figure className="blog-banner-box">
-                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655875/Corporate_Startup_Promo_Videos_irdyot.jpg" alt="Corporate & Startup Promo Videos" loading="lazy" />
+                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655875/Corporate_Startup_Promo_Videos_irdyot.jpg" alt="Corporate & Startup Promo Videos" loading="eager" />
               </figure>
               <div className="blog-content">
                 <h3 className="h3 blog-item-title">Corporate & Startup Promo Videos</h3>
@@ -45,7 +45,7 @@ const Service = () => {
           <li className="blog-post-item">
             <a href="#">
               <figure className="blog-banner-box">
-                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655565/E-commerce_Product_Videos_y2vvdh.jpg" alt="E-commerce Product Videos" loading="lazy" />
+                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655565/E-commerce_Product_Videos_y2vvdh.jpg" alt="E-commerce Product Videos" loading="eager" />
               </figure>
               <div className="blog-content">
                 <h3 className="h3 blog-item-title">E-commerce Product Videos</h3>
@@ -59,7 +59,7 @@ const Service = () => {
           <li className="blog-post-item">
             <a href="#">
               <figure className="blog-banner-box">
-                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655566/Event_Highlights_weddings_conferences_md7iuz.jpg" alt="Event Highlights" loading="lazy" />
+                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655566/Event_Highlights_weddings_conferences_md7iuz.jpg" alt="Event Highlights" loading="eager" />
               </figure>
               <div className="blog-content">
                 <h3 className="h3 blog-item-title">Event Highlights</h3>
@@ -73,7 +73,7 @@ const Service = () => {
           <li className="blog-post-item">
             <a href="#">
               <figure className="blog-banner-box">
-                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655567/YouTube_Content_Editing_clt6hw.jpg" alt="YouTube Content Editing" loading="lazy" />
+                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655567/YouTube_Content_Editing_clt6hw.jpg" alt="YouTube Content Editing" loading="eager" />
               </figure>
               <div className="blog-content">
                 <h3 className="h3 blog-item-title">YouTube Content Editing</h3>
@@ -87,7 +87,7 @@ const Service = () => {
           <li className="blog-post-item">
             <a href="#">
               <figure className="blog-banner-box">
-                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655579/Travel_Vlog_Editing_exifrl.jpg" alt="YouTube Content Editing" loading="lazy" />
+                <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655579/Travel_Vlog_Editing_exifrl.jpg" alt="YouTube Content Editing" loading="eager" />
               </figure>
               <div className="blog-content">
                 <h3 className="h3 blog-item-title">Travel & Vlog Editing</h3>

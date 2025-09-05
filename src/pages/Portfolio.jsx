@@ -24,9 +24,9 @@ const Portfolio = () => {
     { id: 12, title: "The Long-D", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1748082177/5%E6%9C%8819%E6%97%A5_cvbyon.mp4" },
     
     { id: 7, title: "Logo Animation ", category: "Video Editing", img: "https://res.cloudinary.com/dg4xzeevq/video/upload/v1745597296/Final_Render-_rsuapg.mp4" },
-    { id: 13, title: "The Long-D", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081620/12_May_-_PPMHPL_pzy7nv.png" },
-    { id: 14, title: "The Long-D", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081713/20_May_-_Digitlaks_fcbo6h.png" },
-    { id: 15, title: "The Long-D", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081624/May_17_-_PPMHPL_i3p0ml.png" },
+    { id: 13, title: "The Long-D", alt: "graphic design", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081620/12_May_-_PPMHPL_pzy7nv.png" },
+    { id: 14, title: "The Long-D", alt: "graphic ", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081713/20_May_-_Digitlaks_fcbo6h.png" },
+    { id: 15, title: "The Long-D", alt: "design", category: "Graphic Design", img: "https://res.cloudinary.com/dg4xzeevq/image/upload/v1748081624/May_17_-_PPMHPL_i3p0ml.png" },
 
   
 

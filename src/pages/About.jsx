@@ -208,37 +208,37 @@ const About = () => {
           </li>
 
           <li className="clients-item">
-            <a href="/">
+            <a href="*">
               <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655566/LONG-D_LOGO_lbb7xj.png" alt="Logo"></img>
             </a>
           </li>
 
           <li className="clients-item pt-2">
-            <a href="/">
+            <a href="*">
               <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754656136/curigen_kzy3vu.png" alt="Logo"></img>
             </a>
           </li>
 
           <li className="clients-item  pt-5">
-            <a href="/">
+            <a href="*">
               <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655566/Merena_Logo_cxq9sy.png" alt="Logo"></img>
             </a>
           </li>
 
           <li className="clients-item">
-            <a href="/">
+            <a href="*">
               <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655564/Logo_Png_pvayqt.png" alt="Logo"></img>
             </a>
           </li>
 
           <li className="clients-item">
-            <a href="/">
+            <a href="*">
               <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655564/logo-3-color_fshanp.png" alt="Logo" />
             </a>
           </li>
 
         </ul>
-    
+
       </section>
 
     </article>
