@@ -122,7 +122,7 @@ const Contact = () => {
       <section className="mapbox" data-mapbox>
         <figure>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3717.068060986775!2d72.91268715733808!3d21.308326826486415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be047cef21d3429%3A0x34b772224b1202d3!2sVelanja%2C%20Gujarat%20394150!5e0!3m2!1sen!2sin!4v1754640543887!5m2!1sen!2sin "
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7438.589048632686!2d72.89890254251719!3d21.220166387598844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be045882435e545%3A0xd6f93d3d2fa5d1b5!2sSimada%20Gam%2C%20Nana%20Varachha%2C%20Surat%2C%20Gujarat%20395013!5e0!3m2!1sen!2sin!4v1770455385521!5m2!1sen!2sin"
             width="400"
             height="300"
             loading="lazy"
