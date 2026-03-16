@@ -4,7 +4,7 @@
 // // import { cn } from "@/lib/utils";
 
 const About = () => {
-  
+
   return (
     <article className="about  active" data-page="about">
 
@@ -206,10 +206,20 @@ const About = () => {
               <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754656088/ZIBRISH_LOGO_qk65gc.png" alt="Logo" />
             </a>
           </li>
+          <li className="clients-item ws-2">
+            <a >
+              <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1773661715/Parvati_Fabrics_qtaaej.png" alt="Logo" />
+            </a>
+          </li>
 
           <li className="clients-item">
             <a >
               <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1754655566/LONG-D_LOGO_lbb7xj.png" alt="Logo"></img>
+            </a>
+          </li>
+          <li className="clients-item ws-2">
+            <a >
+              <img src="https://res.cloudinary.com/dg4xzeevq/image/upload/v1773661713/Logo_P_poixir.png" alt="Logo" />
             </a>
           </li>
 
